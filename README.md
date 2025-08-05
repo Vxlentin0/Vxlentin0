@@ -5,7 +5,7 @@
 💾 I have repurposed my mini PC into my own HomeLab to host various services I have made (Movie stremaing, File Manager, etc.)
 
 # 🖖 About Me:
-I'm from the UK 🇬🇧 . I'm a huge fan of Python,  C++, open-source and Machine Learning 💻. While I'm not fixing bugs or working on my own AI prompt, <br>I am usually gaming 🎮, playing basketball ⛹️ , going to the gym 🏋🏽 , or in my own world listening to music 🎧.   
+I'm from the UK 🇬🇧 . I'm a huge fan of Python,  C++, open-source and Machine Learning 💻. While I'm not fixing bugs or working on my own AI prompt, I am usually gaming 🎮, playing basketball ⛹️ , going to the gym 🏋🏽 , or in my own world listening to music 🎧.<br>  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rio-halil-roberts) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:robertsrhr@gmail.com) 
