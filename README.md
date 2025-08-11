@@ -1,8 +1,9 @@
 ## Hello, I'm Rio 👋
 
 🎓 Pure Mathematics Bsc at Queen Mary<br/>
-🖳 I primarily create Cyber Security based prjects<br/> 
+🖳 I primarily create Cyber Security based projects<br/> 
 💾 I have repurposed my mini PC into my own HomeLab to host various services I have made (Movie stremaing, File Manager, etc.)
+🖳 Currently working on a Network Scanning and Ad-blocker with my Raspberry Pi
 
 # 🖖 About Me:
 I'm from the UK 🇬🇧 . I'm a huge fan of Python,  C++, open-source and Machine Learning 💻. While I'm not fixing bugs or working on my own AI prompt, I am usually gaming 🎮, playing basketball ⛹️ , going to the gym 🏋🏽 , or in my own world listening to music 🎧.<br>  
