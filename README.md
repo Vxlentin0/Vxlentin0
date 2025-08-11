@@ -2,7 +2,7 @@
 
 🎓 Pure Mathematics Bsc at Queen Mary<br/>
 🖳 I primarily create Cyber Security based projects<br/> 
-💾 I have repurposed my mini PC into my own HomeLab to host various services I have made (Movie stremaing, File Manager, etc.)
+💾 I have repurposed my mini PC into my own HomeLab to host various services I have made (Movie stremaing, File Manager, etc.)<br/>
 🖳 Currently working on a Network Scanning and Ad-blocker with my Raspberry Pi
 
 # 🖖 About Me:
